@@ -1,0 +1,19 @@
+{
+  "name": "in-berif",
+  "version": "1.0.0",
+  "description": "Inbreif ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shantanu Patil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-ddg-api": "^0.1.4",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7"
+  }
+}
