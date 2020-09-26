@@ -30,4 +30,4 @@ app.get("/q", (req, response) => {
   });
 });
 
-app.listen(process.env.PORT);
+app.listen(process.env.PORT | 8080);
